@@ -15,9 +15,9 @@ namespace VsVimDemo.Controllers
         //  * ESC to get back
         //  * It WILL DRIVE YOU NUTS.
 
-       // First, here is how to turn it off. :)  Ctrl+Shift+F12
+        // First, here is how to turn it off. :)  Ctrl+Shift+F12
         
-        // Second, print out this cheet sheet: http://bit.ly/77Xh  (just google vim cheat sheet)
+        // Second, print out this cheat sheet: http://bit.ly/77Xh  (just google vim cheat sheet)
 
         public ActionResult Index()
         {
